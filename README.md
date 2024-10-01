@@ -14,10 +14,8 @@ SnapSet is a generic, fast, and efficient set data structure implemented in Go. 
 To use SnapSet in your project, you can simply copy the `snapset` package files into your project directory or import it if it's hosted in a repository.
 
 ```bash
-go get github.com/yourusername/snapset
+go get github.com/crusty0gphr/snapset
 ```
-
-*Note: Replace `github.com/yourusername/snapset` with the actual import path of the package.*
 
 ## Usage
 
@@ -26,7 +24,7 @@ Here's how to use SnapSet in your Go project:
 ### Import the Package
 
 ```go
-import "github.com/yourusername/snapset"
+import "github.com/crusty0gphr/snapset"
 ```
 
 ### Create a New Set
